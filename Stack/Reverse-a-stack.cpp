@@ -42,3 +42,10 @@ int main() {
     }
     return 0;
 }
+
+//This Method of reverse uses recursion and extra space of functional call stack but if we want to do it without recursion and without using any extra space we can do it
+// using the Following Technique
+
+/* 1.We have to create our own stack class using Linked List
+   2. We can create a method in our stack class which just reverses a Linked List
+*/
