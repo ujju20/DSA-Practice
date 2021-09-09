@@ -7,3 +7,4 @@ Important Links
 - [50 DSA Interview Questions](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 - [Interview Coding Blocks Mock Tests](https://docs.google.com/spreadsheets/d/1bYSI5aj1XhJzZbQuJG1ea-QOqImSLtTTZHBqlDRChAs/edit#gid=0)
 - [Must Do Coding Questions for Product Based Companies](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies)
+- [Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
