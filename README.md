@@ -8,3 +8,6 @@ Important Links
 - [Interview Coding Blocks Mock Tests](https://docs.google.com/spreadsheets/d/1bYSI5aj1XhJzZbQuJG1ea-QOqImSLtTTZHBqlDRChAs/edit#gid=0)
 - [Must Do Coding Questions for Product Based Companies](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies)
 - [Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
+- [Interview Preparation for Software Developer](https://www.geeksforgeeks.org/interview-preparation-for-software-developer/)
+- [Microsoft Interview Preparation](https://www.geeksforgeeks.org/microsoft-interview-preparation/)
+- [Internship Interview Experiences Company-Wise](https://www.geeksforgeeks.org/internship-interview-experiences-company-wise/)
