@@ -1,0 +1,3 @@
+# Problems-
+
+- [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)
