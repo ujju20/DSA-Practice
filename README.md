@@ -17,3 +17,4 @@
 
 - [GFG Data Structure Quizes](https://www.geeksforgeeks.org/data-structure-gq/)
 - [GFG Algo Quizes](https://www.geeksforgeeks.org/algorithms-gq/)
+- [Quiz Corner GFG](https://www.geeksforgeeks.org/quiz-corner-gq/)
