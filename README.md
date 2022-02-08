@@ -1,6 +1,6 @@
 # DSA-Practice
 
-Important Links
+# Programming Links
 
 - [500 Data Structure and Algorithm Interview Questions](https://blog.usejournal.com/500-data-structures-and-algorithms-practice-problems-35afe8a1e222)
 - [100 DSA Interview Questions](https://medium.com/afteracademy/100-data-structures-and-algorithms-problems-asked-during-coding-interviews-269391b8ff8)
@@ -12,3 +12,7 @@ Important Links
 - [Microsoft Interview Preparation](https://www.geeksforgeeks.org/microsoft-interview-preparation/)
 - [Internship Interview Experiences Company-Wise](https://www.geeksforgeeks.org/internship-interview-experiences-company-wise/)
 - [Must Do Coding Questions Company-wise](https://www.geeksforgeeks.org/must-coding-questions-company-wise/#amazon)
+
+# Quizes Links
+
+- [GFG Data Structure Quizes](https://www.geeksforgeeks.org/data-structure-gq/)
