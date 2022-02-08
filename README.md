@@ -18,3 +18,6 @@
 - [GFG Data Structure Quizes](https://www.geeksforgeeks.org/data-structure-gq/)
 - [GFG Algo Quizes](https://www.geeksforgeeks.org/algorithms-gq/)
 - [Quiz Corner GFG](https://www.geeksforgeeks.org/quiz-corner-gq/)
+
+# Company Wise
+- [Microsofts Asked Interview Questions](https://www.geeksforgeeks.org/microsofts-asked-interview-questions/)
