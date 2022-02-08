@@ -21,3 +21,4 @@
 
 # Company Wise
 - [Microsofts Asked Interview Questions](https://www.geeksforgeeks.org/microsofts-asked-interview-questions/)
+- [Microsoft Prep](https://www.geeksforgeeks.org/how-to-prepare-for-microsoft-software-development-engineering-interview/)
