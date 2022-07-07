@@ -29,3 +29,4 @@
 
 # Core CS
 - [OS Notes](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
+- [Commonly Asked Operating Systems Interview Questions](https://www.geeksforgeeks.org/commonly-asked-operating-systems-interview-questions/?ref=lbp)
