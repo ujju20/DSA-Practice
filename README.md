@@ -26,3 +26,6 @@
 # Prep Links
 - [GFG SDE SHEET – A Complete Guide for SDE Preparation
 ](https://www.geeksforgeeks.org/gfg-sde-sheet-a-complete-guide-for-sde-preparation/?ref=ghb)
+
+# Core CS
+- [OS Notes](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)
